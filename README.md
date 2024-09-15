@@ -1,2 +1,5 @@
 # DotsAndBoxesGame
-This is a ME undergraduate's C++ homework, he is new to coding so please do not laught at him. 
+北京某高校ME学生一年级程序设计大作业，做的很烂，不要参考，仅供娱乐
+**原理**
+MCTS（蒙特卡洛树搜索）算法是一种基于概率和随机模拟的搜索算法，广泛应用于棋类游戏、自动决策等领域。它结合了蒙特卡洛方法的随机抽样特性与树形结构的搜索策略。MCTS算法通过不断模拟游戏过程，评估每个决策点的优劣，从而在搜索空间中找到一个较优的决策路径。其主要步骤包括：选择（Selection）、扩展（Expansion）、模拟（Simulation）和回溯（Backpropagation）。MCTS算法具有较高的灵活性和扩展性，能够在复杂环境中进行有效决策，是当前人工智能领域的重要研究方向之一。
+*以上文本由chatGLM生成*
